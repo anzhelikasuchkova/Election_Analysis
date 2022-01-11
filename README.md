@@ -41,9 +41,12 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 2. Each county and its percentage of the total votes are printed to the terminal.
 3. The county with the largest number of voters is printed to the terminal.
 
-### Results with detail analysis:
-
+### Results with detailed analysis:
 **1. Each county with its total vote count and percentage.**
+
+
+
+**2. Each county and its percentage of the total votes are printed to the terminal.**
 
 
 

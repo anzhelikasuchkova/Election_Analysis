@@ -68,7 +68,7 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 
 ### Election-Audit Results:
 
-> - **Total Votes Cast** in this congressional election was **369,711**
+**Total Votes Cast** in this congressional election was **369,711**
 
 > ***County Votes:***
 

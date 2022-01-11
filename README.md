@@ -25,15 +25,15 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 ### Results with detailed analysis:
 **1. Total Votes in the election**
 
-
+<img width="815" alt="1  Total Votes in the election" src="https://user-images.githubusercontent.com/93845867/149040013-782fe6ba-1842-4a41-b82b-d64732d61746.png">
 
 **2. Each candidate’s total votes and percentage of votes.**
 
-
+<img width="820" alt="2  Each candidate’s total votes and percentage of votes" src="https://user-images.githubusercontent.com/93845867/149040032-1664adba-41c3-4222-9afe-248f168d5458.png">
 
 **3. The winner of the election, winning vote count, and winning percentage of votes.**
 
-
+<img width="815" alt="3  The winner of the election, winning vote count, and winning percentage of votes" src="https://user-images.githubusercontent.com/93845867/149040052-4200493a-ea3f-4c1a-8456-1902c1933f96.png">
 
 ### Deliverable 1b: County Results
 ### Deliverable Requirements:
@@ -44,7 +44,7 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 ### Results with detailed analysis:
 **1. Each county with its total vote count and percentage.**
 
-
+<img width="841" alt="1  Each county with its total vote count and percentage" src="https://user-images.githubusercontent.com/93845867/149040069-2f77a95e-1c7e-46bb-8679-7373dece9044.png">
 
 **2. Each county and its percentage of the total votes are printed to the terminal.**
 
@@ -52,7 +52,7 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 
 **3. The county with the largest number of voters is printed to the terminal.**
 
-
+<img width="820" alt="3  The county with the largest number of voters is printed to the terminal" src="https://user-images.githubusercontent.com/93845867/149040126-75a0630f-5413-4444-ac4e-50a25898de80.png">
 
 ## Deliverable 2: Election Candidate Results Saved to a Text File
 ### Candidate Results Deliverable Requirements:

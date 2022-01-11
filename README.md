@@ -70,10 +70,10 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 
 **Total Votes Cast** in this congressional election was **369,711**
 
-> ***County Votes:***
+***County Votes:***
 
-> - **Jefferson** county has `10.5%` total percentage with a total votes of **38,855**
-> - **Denver** county has the `82.8%` total percentage with a total votes of **306,055**
+**Jefferson** county has `10.5%` total percentage with a total votes of **38,855**
+- **Denver** county has the `82.8%` total percentage with a total votes of **306,055**
 > - **Arapahoe** county has `6.7%` total percentage with a total votes of **24,801**
 
 > ***County with Largest Number of Votes:***

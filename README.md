@@ -1,19 +1,18 @@
 # Election_Analysis
-Practicing with Python
+Practicing with Python - Creating Electoral Analysis
 
 ## Overview of Project
 A Colorado Board of Elections has requested to complete the election audit of a recent local congressional election.
 
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculatae the total number of votes each candidate received.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
+1. Calculate a total number of votes casted.
+2. Get a complete list of candidates.
+3. Calculate a total number of votes each candidate received.
+4. Calculate a percentage of received votes for each candidate.
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
 * Data Source: election_results.csv
-* Software: Python 3.7.6, Visual Studio Code 1.50.0
+* Software: Python 3.10.1, Visual Studio Code 1.63.2
 
 ## Analysis and Challenges
 
@@ -23,19 +22,18 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 2. Each candidate’s total votes and percentage of votes are printed to the terminal.
 3. The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
  
-### Results with detail analysis:
+### Results with detailed analysis:
 **1. Total Votes in the election**
 
-![name-of-you-image](https://github.com/Dorislava/Election_Analysis/blob/main/Total%20Votes%20in%20the%20election.PNG)
+
 
 **2. Each candidate’s total votes and percentage of votes.**
 
-![name-of-you-image](https://github.com/Dorislava/Election_Analysis/blob/main/Each%20candidates's%20total%20votes%20and%20percentage%20of%20votes.PNG)
+
 
 **3. The winner of the election, winning vote count, and winning percentage of votes.**
 
 
-![name-of-you-image](https://github.com/Dorislava/Election_Analysis/blob/main/The%20winner%20of%20the%20election%2C%20winning%20vote%20count%2C%20and%20winning%20percentage.PNG)
 
 ### Deliverable 1b: County Results
 ### Deliverable Requirements:
@@ -47,12 +45,10 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 
 **1. Each county with its total vote count and percentage.**
 
-![name-of-you-image](https://github.com/Dorislava/Election_Analysis/blob/main/Each%20county%20with%20%20its%20total%20vote%20count%20and%20percentage.PNG)
 
 
 **3. The county with the largest number of voters is printed to the terminal.**
 
-![name-of-you-image](https://github.com/Dorislava/Election_Analysis/blob/main/The%20county%20with%20the%20largest%20number%20of%20voters%20.PNG)
 
 
 ## Deliverable 2: Election Candidate Results Saved to a Text File
@@ -62,7 +58,7 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 2. Each candidate’s total votes and percentage of votes are saved in the `election_results.txt` file. 
 3. The winner of the election, winning vote count, and winning percentage of votes are saved in the `election_results.txt` file.
  
-### Results with detail analysis:
+### Results with detailed analysis:
 
 ## Election County Results Saved to a Text File
 

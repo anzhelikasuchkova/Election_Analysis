@@ -93,4 +93,4 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 ***Election Results:***
 - **Diana DeGette** won the election, with a total votes of **272,892**
 - In addition, **Diana DeGette** has the total percentage votes of `73.8%`
-- **Diana DeGette** is the Winner!
+- **Diana DeGette is the Winner!**

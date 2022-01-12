@@ -44,7 +44,7 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 ### Results with detailed analysis:
 **1. Each county with its total vote count and percentage.**
 
-<img width="841" alt="1  Each county with its total vote count and percentage" src="https://user-images.githubusercontent.com/93845867/149040069-2f77a95e-1c7e-46bb-8679-7373dece9044.png">
+<img width="841" alt="1,2  Each county with its total vote count and percentage" src="https://user-images.githubusercontent.com/93845867/149040575-0cb30a1c-6d07-4469-adc6-d8b85c29a490.png">
 
 **2. Each county and its percentage of the total votes are printed to the terminal.**
 

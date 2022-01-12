@@ -93,3 +93,7 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 ***Election Results:***
 - **Diana DeGette** won the election, with a total votes of **272,892**
 - In addition, **Diana DeGette** has the total percentage votes of `73.8%`
+
+## Election-Audit Summary
+
+The script used to perform the Election Analysis can be a valuable resourse. We could use the same script for other elections, for example if we modify election_results.csv to include more counties, or even states, we can calculate election results on a bigger scale. Secondly, we can use it to analize the turnout of the elections to find ways to get more people to vote by looking at counties that decline in voter turnout. 
